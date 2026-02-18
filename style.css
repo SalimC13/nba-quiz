@@ -1,1 +1,54 @@
+body {
+  background: whitesmoke;
+}
 
+.container {
+  max-width: auto;
+  margin: auto;
+  background: #cc2b31ff;
+  padding: 20px;
+  border-radius:15px;
+  border: 10px solid #0253a4ff;
+}
+
+.jordan-img {
+  width: 99%;
+  height: auto;
+  border-radius: 15px;
+  border: 5px solid #0253a4ff;
+}
+
+h1{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size:auto;
+  text-align: center;
+  color: white;
+}
+
+h3{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: auto;
+  text-align: center;
+  color: white;
+}
+
+input{
+  display: block;
+  border-radius: 7px;
+  margin: auto;
+}
+
+button{
+  background-color: #0253a4ff; 
+  border: none; 
+  color: white; 
+  padding: 8px 8px; 
+  margin: 4px 2px;
+  cursor: pointer; 
+  border-radius: 8px; 
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); 
+}
+
+.jick {
+  text-align: center;
+}
